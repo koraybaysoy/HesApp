@@ -1,5 +1,5 @@
 # HesApp
 Simple Calculator
 
-Application does simple calculations
+Application does simple calculations created with Android Studio
 
